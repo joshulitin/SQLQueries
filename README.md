@@ -3,6 +3,11 @@ Storing all of the things I queried while learning SQL (Done in SSMS and PopSQL)
 All the terms I learned during this:
 CREATE
 SELECT
+INT
+PRIMARY KEY
+VARCHAR
+DATE
+FLOAT
 INSERT
 WHERE
 ORDER BY
